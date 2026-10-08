@@ -1,0 +1,23 @@
+{
+  "university": "GSFC University",
+  "seeds": [
+    "https://www.gsfcuniversity.ac.in/",
+    "https://www.gsfcuniversity.ac.in/faculty-profile",
+    "https://gsfcu.gsfcuniversity.ac.in/DCSIT/Pages/Faculty.aspx",
+    "https://gsfcuniversity.irins.org/",
+    "https://www.anantagsfcu.in/",
+    "https://www.guiitarstartupcouncil.org/guiitarcouncil-events"
+  ],
+  "allowed_domains": [
+    "gsfcuniversity.ac.in",
+    "gsfcuni.edu.in",
+    "gsfcuniversity.irins.org",
+    "anantagsfcu.in",
+    "guiitarstartupcouncil.org"
+  ],
+  "ollama_url": "http://127.0.0.1:11434",
+  "chat_model": "qwen3:8b",
+  "embedding_model": "nomic-embed-text",
+  "max_pages": 2500,
+  "max_file_mb": 30
+}

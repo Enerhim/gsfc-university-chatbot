@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Who is applicable for Merit-cum Means scholarship",
+    "answer": "The Merit-cum-Means Scholarship is available to students who demonstrate both academic excellence and financial need, as stated in the FAQs document. [1]",
+    "status": "grounded",
+    "resolved_question": "Who is applicable for Merit-cum Means scholarship",
+    "elapsed_seconds": 3.69
+  },
+  {
+    "question": "Lets say I want to work on brain signal imaging, who should I approach in the university",
+    "answer": "Dr. G R Sinha, with research interests in Biomedical Image Processing and Cognitive Science Applications in Study of Brain Disorder/Disabilities, is a suitable contact for work on brain signal imaging. His email is gr.sinha@gsfcuniversity.ac.in. [1][2]",
+    "status": "grounded",
+    "resolved_question": "Lets say I want to work on brain signal imaging, who should I approach in the university",
+    "elapsed_seconds": 1.49
+  },
+  {
+    "question": "How do I contact him?",
+    "answer": "Dr. G R Sinha can be contacted via email at gr.sinha@gsfcuniversity.ac.in. [1]",
+    "status": "grounded",
+    "resolved_question": "How can I contact Dr. G R Sinha at GSFC University?",
+    "elapsed_seconds": 15.62
+  },
+  {
+    "question": "Who should I approach for funding for my startup",
+    "answer": "For funding for your startup, you should approach the GUIITAR Council at GSFC University, which is dedicated to promoting and supporting creativity, innovation, and enterprise among young minds and innovators. The contact email is guiitar@gsfcuniversity.ac.in, and the contact number is 09313262712. [1][2]",
+    "status": "grounded",
+    "resolved_question": "Who should I approach for funding for my startup",
+    "elapsed_seconds": 4.43
+  },
+  {
+    "question": "When exactly was Ananta 2026 held?",
+    "answer": "Ananta \u201926 was held from 12th to 14th March 2026. [1]",
+    "status": "grounded",
+    "resolved_question": "When exactly was Ananta 2026 held?",
+    "elapsed_seconds": 2.09
+  }
+]

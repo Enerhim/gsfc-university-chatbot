@@ -1,0 +1,332 @@
+[
+  {
+    "question": "Who should I approach for funding for my startup?",
+    "scope": "public",
+    "status": "grounded",
+    "answer": "For funding for your startup, you should approach GUIITAR Council, which is dedicated to promoting and supporting innovation and startups. You can contact Mr. Kirankumar Parmar, Sr. Manager, at email guiitar@gsfcuniversity.ac.in or mobile 09313262712. [1][2]",
+    "citations": [
+      {
+        "id": 4006,
+        "text": "GUIITAR Council | CONTACT US\nGUIITAR Council GU Incubation Innovation Technology and Applied Research (GUIITAR) Council has been established by GSFC University (GSFCU) at Vadodara, dedicated to promoting and supporting creativity, innovation and the spirit of enterprise among young minds and innovators. GUIITAR Council is registered under section 8 of the Companies Act, 2013. \u200b GUIITAR Council is committed to nurturing and developing startups through shared resources, Infrastructure, cutting-edge laboratories, tailored mentorship, extended networking and other standard services such as Co-working space, Equipment, Business support, and Intellectual Property Protection. \u200b VISION To nurture young minds by providing a platform to explore and showcase their potential, along with the generation of high added value, with a focus on innovation as well as marketing of technologies for the betterment of the Scientific, Engineering, Science & Management Communities and the Society. MISSION To produce success stories in innovations and startups that will make the young minds confident, freestanding and financially viable. \u200b OBJECTIVES To establish, manage and operate a business incubator. To promote entrepreneurship and to incubate individuals, groups of individuals, and convert their efforts into enterprises by collaborating with similar institutions. To catalyse the process of incubation. To manage technology, applied research, knowledge networks, and human resource development. To offer mentoring services to help with enterprise growth. To encourage new ventures for the benefit of society and to undertake all related activities to achieve the GUIITAR Council's vision. \u200b THRUST AREA Agriculture and allied fields Artificial Intelligence and Robotics Biotechnology Clean-Tech Cyber Security Energy Environmental Challenges & Solutions Healthcare Information & Communication Technology (ICT) Internet of Things (IoT) Manufacturing Services Water (Drinking Water, Wastewater and Storm Water Utilities)",
+        "document_id": "2b8a57bd653b5bdac81fae0b",
+        "url": "https://www.guiitarstartupcouncil.org/guiitarcouncil-about",
+        "title": "GUIITAR Council | CONTACT US",
+        "kind": "web",
+        "visibility": "public",
+        "published": "",
+        "fetched": "2026-10-08T07:49:00.534059+00:00",
+        "score": 0.05,
+        "citation": 1
+      },
+      {
+        "id": 4095,
+        "text": "CONTACT US AT | CONTACT US\nCONTACT US AT Email Us guiitar@gsfcuniversity.ac.in Mobile (P) : Mr. Kiran Parmar, Sr. Manager (M) : 09313262712 Address\u200b Room No. 208, Event Room, Second Floor, GUIITAR Council, Anviksha - GSFC Universit y, P. O. Fertilizernagar, Vadodara-391750, Gujarat, INDIA",
+        "document_id": "b8b89335139fa1e6ff3aeb3a",
+        "url": "https://www.guiitarstartupcouncil.org/guiitarcouncil-contactus",
+        "title": "CONTACT US AT | CONTACT US",
+        "kind": "web",
+        "visibility": "public",
+        "published": "",
+        "fetched": "2026-10-08T07:49:11.319947+00:00",
+        "score": 0.09048,
+        "citation": 2
+      }
+    ],
+    "checked_at": "2026-10-08T08:43:51.782417+00:00",
+    "trace": [
+      {
+        "step": "resolve_conversation",
+        "turns": 0,
+        "query": "Who should I approach for funding for my startup?"
+      },
+      {
+        "step": "search_university",
+        "results": 5,
+        "retrieval": "hybrid"
+      },
+      {
+        "step": "validate_citation_ids",
+        "passed": 1,
+        "proposed": 1
+      },
+      {
+        "step": "verify_claim_support_and_relevance",
+        "passed": false
+      },
+      {
+        "step": "repair_and_recheck",
+        "passed": true
+      }
+    ],
+    "resolved_question": "Who should I approach for funding for my startup?",
+    "retrieval_mode": "hybrid",
+    "claims": [
+      {
+        "text": "For funding for your startup, you should approach GUIITAR Council, which is dedicated to promoting and supporting innovation and startups. You can contact Mr. Kirankumar Parmar, Sr. Manager, at email guiitar@gsfcuniversity.ac.in or mobile 09313262712.",
+        "source_ids": [
+          4006,
+          4095
+        ]
+      }
+    ],
+    "elapsed_seconds": 3.6
+  },
+  {
+    "question": "How do I contact them?",
+    "scope": "public",
+    "status": "grounded",
+    "answer": "You can contact Mr. Kirankumar Parmar, Sr. Manager, at email guiitar@gsfcuniversity.ac.in or mobile 09313262712. [1]",
+    "citations": [
+      {
+        "id": 4095,
+        "text": "CONTACT US AT | CONTACT US\nCONTACT US AT Email Us guiitar@gsfcuniversity.ac.in Mobile (P) : Mr. Kiran Parmar, Sr. Manager (M) : 09313262712 Address\u200b Room No. 208, Event Room, Second Floor, GUIITAR Council, Anviksha - GSFC Universit y, P. O. Fertilizernagar, Vadodara-391750, Gujarat, INDIA",
+        "document_id": "b8b89335139fa1e6ff3aeb3a",
+        "url": "https://www.guiitarstartupcouncil.org/guiitarcouncil-contactus",
+        "title": "CONTACT US AT | CONTACT US",
+        "kind": "web",
+        "visibility": "public",
+        "published": "",
+        "fetched": "2026-10-08T07:49:11.319947+00:00",
+        "score": 0.12846,
+        "citation": 1
+      }
+    ],
+    "checked_at": "2026-10-08T08:43:55.472069+00:00",
+    "trace": [
+      {
+        "step": "resolve_conversation",
+        "turns": 2,
+        "query": "How can I contact Mr. Kirankumar Parmar, Sr. Manager, at GUIITAR Council for funding for my startup?"
+      },
+      {
+        "step": "search_university",
+        "results": 5,
+        "retrieval": "hybrid"
+      },
+      {
+        "step": "validate_citation_ids",
+        "passed": 1,
+        "proposed": 1
+      },
+      {
+        "step": "verify_claim_support_and_relevance",
+        "passed": true
+      }
+    ],
+    "resolved_question": "How can I contact Mr. Kirankumar Parmar, Sr. Manager, at GUIITAR Council for funding for my startup?",
+    "retrieval_mode": "hybrid",
+    "claims": [
+      {
+        "text": "You can contact Mr. Kirankumar Parmar, Sr. Manager, at email guiitar@gsfcuniversity.ac.in or mobile 09313262712.",
+        "source_ids": [
+          4095
+        ]
+      }
+    ],
+    "elapsed_seconds": 1.97
+  },
+  {
+    "question": "Which faculty works on machine learning?",
+    "scope": "public",
+    "status": "grounded",
+    "answer": "Ms. Shweta N Rajput works on machine learning and has developed skills in artificial intelligence and data science. [1]",
+    "citations": [
+      {
+        "id": 4170,
+        "text": "/upload/facultyCv/Profile-%20Shweta%20Rajput.pdf\n[Page 1] Image: 270 X 271 Pixels Shweta N Rajput, Assistant Professor, Computer Science & Engineering Office at Room No. 02 (Staff Room, 2nd Floor, SoT), School of Technology, Building shweta.rajput@gsfcuniversity.ac.in Contact No. 987209841 \uf0a7 Joined GSFC University in October 2021 Education Pursing Ph.D. from Sardar Vallabhbhai National Institute of Technology M.E (CSE) from L. D College of Engineering, GTU, Ahmedabad (2014) B.E. (CE) from A.D. Patel Institute of Technology, S.P University, V.V. Nagar (2009) Key Skills \uf0a7 Ms. Shweta has more than 13 years of teaching experience. \uf0a7 She has done her dissertation in cloud computing security domain during her masters. She has developed security framework for virtual machine when it migrate from one host to other. \uf0a7 She has developed her skills in artificial intelligence and Data science though various faculty development programs organised by \u201cAICTE Training A nd Learning \u201d (ATAL) and MeitY(Ministry of Electronics and Information Technology). Project Guided Sr. No Name of the Project/Activity In Association with(if any) 1 Drone Development GSFC Ltd. 2 Quad-drop SSIP 3 QuardSR eYIC, a project initiated by IIT, Bombay Publications 1. Paper published on \u201cLive-VM\u201d Migration Policies, Attacks & Security in IJARCSSE (Volume-4 issue-2 , February 2014). 2. Paper Presented on \u201c Empowering Girl Child \u201d in \u201c 7th National Convention of ISTE student chapter\u201d",
+        "document_id": "af24a3071d322c7a41eef300",
+        "url": "https://www.gsfcuniversity.ac.in/upload/facultyCv/Profile-%20Shweta%20Rajput.pdf",
+        "title": "/upload/facultyCv/Profile-%20Shweta%20Rajput.pdf",
+        "kind": "document",
+        "visibility": "public",
+        "published": "",
+        "fetched": "2026-10-08T07:49:38.133237+00:00",
+        "score": 0.02691,
+        "citation": 1
+      }
+    ],
+    "checked_at": "2026-10-08T08:43:57.568154+00:00",
+    "trace": [
+      {
+        "step": "resolve_conversation",
+        "turns": 4,
+        "query": "Which faculty works on machine learning at GSFC University?"
+      },
+      {
+        "step": "search_university",
+        "results": 5,
+        "retrieval": "hybrid"
+      },
+      {
+        "step": "validate_citation_ids",
+        "passed": 1,
+        "proposed": 1
+      },
+      {
+        "step": "verify_claim_support_and_relevance",
+        "passed": true
+      }
+    ],
+    "resolved_question": "Which faculty works on machine learning at GSFC University?",
+    "retrieval_mode": "hybrid",
+    "claims": [
+      {
+        "text": "Ms. Shweta N Rajput works on machine learning and has developed skills in artificial intelligence and data science.",
+        "source_ids": [
+          4170
+        ]
+      }
+    ],
+    "elapsed_seconds": 1.8
+  },
+  {
+    "question": "What is their research background?",
+    "scope": "public",
+    "status": "grounded",
+    "answer": "Ms. Shweta N Rajput's research background includes Cloud Computing and Computer Vision, with a focus on developing security frameworks for virtual machine migration and exploring artificial intelligence and data science. [1][2]",
+    "citations": [
+      {
+        "id": 173,
+        "text": "Shweta N Rajput\n\u2190 Back to Faculty List Shweta N Rajput PhD Scholar, NIT Surat Email: shweta.rajput@gsfcuniversity.ac.in Ms. Shweta Rajput is currently working as Assistant Professor and Head of the Departments of Computer Science & Engineering and Computer Applications at GSFC University, Vadodara. She has over 16 years of teaching experience and has previously worked at BITS Edu Campus,Vadodara, HJD Institute of Technical Education and Research, Kutchh, and Engineering College, Tuwa. She holds a Master\u2019s degree in Computer Science & Engineering from L.D. College of Engineering, Ahmedabad and is currently pursuing her Ph.D. at Sardar Vallabhbhai National Institute of Technology, Surat. Her research interests include Cloud Computing and Computer Vision. Along with teaching, she is actively involved in mentoring students, coordinating academic activities, and leading departmental initiatives. She enjoys exploring new teaching methods, organizing hands-on tech events, and helping students build skills that match industry needs. Passionate about education and innovation, Ms. Rajput continues to contribute to making computer science learning more engaging, practical, and future-ready. Education Details Research Interests Publications Professional Experience Research & Consulting Honors and Awards Other Information PhD Scholar from Sardar Vallabhbhai Patel National Institute of Technology (NIT) Surat M.E in Computer Science & Engineering from L. D College of Engineering , Ahmedabad, Gujarat Technological University , Ahmedabad B.E in Computer Engineering from A.D Patel Institute of Technology , Karmasad, Sardar Patel University , Vallabh VidhyaNagar Computer Vision, Cloud Computing 1. Paper published on \u201cLive-VM\u201d Migration Policies, Attacks & Security in IJARCSSE https://www.scribd.com/document/626142723/live-VM-migration-polices-attacks-and-security-a-survey 2. Paper Presented on \u201cEmpowering Girl Child\u201d in 7th Annual Convention of ISTE Students \u2013 \u201cVision 2020 : Role of Engineering & Technology\u201d at B & B Institute of Technology, Vallabh Vidyanagar (Gujarat), 30-31 October, 2004",
+        "document_id": "780c8631e56028dacf3a2c5c",
+        "url": "https://gsfcu.gsfcuniversity.ac.in/DCSIT/Pages/FacultyProfile.aspx?id=44",
+        "title": "Shweta N Rajput",
+        "kind": "web",
+        "visibility": "public",
+        "published": "",
+        "fetched": "2026-10-08T07:40:38.810530+00:00",
+        "score": 0.05,
+        "citation": 1
+      },
+      {
+        "id": 4170,
+        "text": "/upload/facultyCv/Profile-%20Shweta%20Rajput.pdf\n[Page 1] Image: 270 X 271 Pixels Shweta N Rajput, Assistant Professor, Computer Science & Engineering Office at Room No. 02 (Staff Room, 2nd Floor, SoT), School of Technology, Building shweta.rajput@gsfcuniversity.ac.in Contact No. 987209841 \uf0a7 Joined GSFC University in October 2021 Education Pursing Ph.D. from Sardar Vallabhbhai National Institute of Technology M.E (CSE) from L. D College of Engineering, GTU, Ahmedabad (2014) B.E. (CE) from A.D. Patel Institute of Technology, S.P University, V.V. Nagar (2009) Key Skills \uf0a7 Ms. Shweta has more than 13 years of teaching experience. \uf0a7 She has done her dissertation in cloud computing security domain during her masters. She has developed security framework for virtual machine when it migrate from one host to other. \uf0a7 She has developed her skills in artificial intelligence and Data science though various faculty development programs organised by \u201cAICTE Training A nd Learning \u201d (ATAL) and MeitY(Ministry of Electronics and Information Technology). Project Guided Sr. No Name of the Project/Activity In Association with(if any) 1 Drone Development GSFC Ltd. 2 Quad-drop SSIP 3 QuardSR eYIC, a project initiated by IIT, Bombay Publications 1. Paper published on \u201cLive-VM\u201d Migration Policies, Attacks & Security in IJARCSSE (Volume-4 issue-2 , February 2014). 2. Paper Presented on \u201c Empowering Girl Child \u201d in \u201c 7th National Convention of ISTE student chapter\u201d",
+        "document_id": "af24a3071d322c7a41eef300",
+        "url": "https://www.gsfcuniversity.ac.in/upload/facultyCv/Profile-%20Shweta%20Rajput.pdf",
+        "title": "/upload/facultyCv/Profile-%20Shweta%20Rajput.pdf",
+        "kind": "document",
+        "visibility": "public",
+        "published": "",
+        "fetched": "2026-10-08T07:49:38.133237+00:00",
+        "score": 0.0482,
+        "citation": 2
+      }
+    ],
+    "checked_at": "2026-10-08T08:43:59.561204+00:00",
+    "trace": [
+      {
+        "step": "resolve_conversation",
+        "turns": 6,
+        "query": "What is Ms. Shweta N Rajput's research background?"
+      },
+      {
+        "step": "search_university",
+        "results": 5,
+        "retrieval": "hybrid"
+      },
+      {
+        "step": "validate_citation_ids",
+        "passed": 1,
+        "proposed": 1
+      },
+      {
+        "step": "verify_claim_support_and_relevance",
+        "passed": true
+      }
+    ],
+    "resolved_question": "What is Ms. Shweta N Rajput's research background?",
+    "retrieval_mode": "hybrid",
+    "claims": [
+      {
+        "text": "Ms. Shweta N Rajput's research background includes Cloud Computing and Computer Vision, with a focus on developing security frameworks for virtual machine migration and exploring artificial intelligence and data science.",
+        "source_ids": [
+          173,
+          4170
+        ]
+      }
+    ],
+    "elapsed_seconds": 2.6
+  },
+  {
+    "question": "When exactly was Ananta 2026 held?",
+    "scope": "personal",
+    "status": "grounded",
+    "answer": "Ananta 2026 was held on 12th, 13th, and 14th March 2026. [1]",
+    "citations": [
+      {
+        "id": 6869,
+        "text": "Ananta \u201926: Participation and Attendance Guidelines\nSubject: Ananta \u201926: Participation and Attendance Guidelines From: Neha Pujara Associate Dean DOST-AI <associatedean.dost-ai@gsfcuniversity.ac.in> Date: Mon, 9 Mar 2026 15:48:13 +0530 Dear Students, Greetings from the DOST-AI Cell! Ananta \u201926, the Annual Techno-Cultural Festival of the University, will be held on *12th, 13th, and 14th March 2026*. The festival celebrates creativity, innovation, collaboration, and the vibrant spirit of campus life. Events like Ananta provide a unique opportunity to interact with peers from different programs, showcase talents, learn new ideas, and create memorable experiences beyond the classroom. Please note that *attendance during these days is mandatory*, and attendance will be *mapped between the regular academic schedule and the Ananta events taking place during the respective time slots*. Participation in the festival activities will therefore be considered as part of the attendance requirements as per University policy. We look forward to your enthusiastic participation in making *Ananta \u201926* a memorable and engaging experience for the entire university community. * Thanks & Regards, * * Ms. Neha Pujara*, Associate Dean of Student Activities and Alumni Interaction (DOST-AI) Cell *GSFC University* (M) +91 9909904598 (W) *www.gsfcuniversity.ac.in <http://www.gsfcuni.edu.in/>* -- *DISCLAIMER*: This email and its attachments may be confidential and are intended solely for the use of the intended recipient. If you are not the intended recipient of this email and its attachments, you must take no action based upon them, nor must you copy or show them to anyone. Please contact the sender if you believe you have received this email in error. Any views or opinions expressed are solely those of the author and do not necessarily represent those of The GSFC University. _*Do not print this email unless it is absolutely necessary. Spread",
+        "document_id": "10fb3bfabdfb745c44412dc8",
+        "url": "https://mail.google.com/mail/u/0/#all/19cd21b6a9fdb4e5",
+        "title": "Ananta \u201926: Participation and Attendance Guidelines",
+        "kind": "mail",
+        "visibility": "private",
+        "published": "2026-03-09T15:48:13+05:30",
+        "fetched": "2026-10-08T08:41:09.999932+00:00",
+        "score": 0.08326,
+        "citation": 1
+      }
+    ],
+    "checked_at": "2026-10-08T08:44:02.212531+00:00",
+    "trace": [
+      {
+        "step": "resolve_conversation",
+        "turns": 0,
+        "query": "When exactly was Ananta 2026 held?"
+      },
+      {
+        "step": "search_university",
+        "results": 5,
+        "retrieval": "hybrid"
+      },
+      {
+        "step": "validate_citation_ids",
+        "passed": 1,
+        "proposed": 1
+      },
+      {
+        "step": "verify_claim_support_and_relevance",
+        "passed": true
+      }
+    ],
+    "resolved_question": "When exactly was Ananta 2026 held?",
+    "retrieval_mode": "hybrid",
+    "claims": [
+      {
+        "text": "Ananta 2026 was held on 12th, 13th, and 14th March 2026.",
+        "source_ids": [
+          6869
+        ]
+      }
+    ],
+    "elapsed_seconds": 2.1
+  },
+  {
+    "question": "What is the confirmed Ananta 2050 ticket price?",
+    "scope": "public",
+    "status": "insufficient_evidence",
+    "answer": "I found related university information, but couldn\u2019t verify the specific detail you\u2019re asking for. You can inspect the sources in Knowledge.",
+    "citations": [],
+    "checked_at": "2026-10-08T08:44:04.360613+00:00",
+    "trace": [
+      {
+        "step": "resolve_conversation",
+        "turns": 0,
+        "query": "What is the confirmed Ananta 2050 ticket price?"
+      },
+      {
+        "step": "search_university",
+        "results": 5,
+        "retrieval": "hybrid"
+      },
+      {
+        "step": "validate_citation_ids",
+        "passed": 0,
+        "proposed": 0
+      }
+    ],
+    "resolved_question": "What is the confirmed Ananta 2050 ticket price?",
+    "retrieval_mode": "hybrid",
+    "elapsed_seconds": 2.01
+  }
+]
